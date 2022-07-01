@@ -1,0 +1,14 @@
+{
+  "name": "@somedaycode/tsconfig",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "base.json",
+    "node16.json",
+    "vue-library.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
