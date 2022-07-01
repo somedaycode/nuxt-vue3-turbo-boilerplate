@@ -1,6 +1,8 @@
-Nuxt-Vue3-Turbo-Boilerplate
+# Nuxt-Vue3-Turbo-Boilerplate
 This Boilerplate is inspired from TurboRepo-Examples
 
+**Directory**
+```js
 apps
 - docs (Storybook)
 - todos (Nuxt3, Vue3)
@@ -14,3 +16,4 @@ packages
   TypeScript
   Eslint
   Prettier
+```
