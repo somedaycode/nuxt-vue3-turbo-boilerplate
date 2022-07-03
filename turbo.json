@@ -2,8 +2,7 @@
   "pipeline": {
     "build": {
       "outputs": [
-        "dist/**",
-        ".next/**"
+        "dist/**"
       ],
       "dependsOn": [
         "^build"
