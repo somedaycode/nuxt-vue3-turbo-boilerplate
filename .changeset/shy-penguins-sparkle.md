@@ -1,0 +1,5 @@
+---
+"@somedaycode/core": patch
+---
+
+test
