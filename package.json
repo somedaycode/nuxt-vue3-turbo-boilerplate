@@ -2,7 +2,16 @@
   "name": "@somedaycode/nuxt-vue3-turbo",
   "author": "somedaycode@gmail.com",
   "version": "0.0.1",
-  "contributors": ["somedaycode"],
+  "contributors": [
+    {
+      "name": "somedaycode",
+      "email": "somedaycode@gmail.com"
+    },
+    {
+      "name": "cchoongh",
+      "email": "cndgh49@naver.com"
+    }
+  ],
   "private": true,
   "workspaces": [
     "packages/*",
